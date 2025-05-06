@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94695003421",
+    "project_id": "interview-3176a",
+    "storage_bucket": "interview-3176a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94695003421:android:6d493c897e678669e87df4",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDSb2KgFT30IERF1TxqQP3UQvXmisxCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
